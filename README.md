@@ -1,3 +1,6 @@
+# Deprecation Notice
+The Text Analysis with Amazon OpenSearch Service and Amazon Comprehend solution has been upgraded. The new repository is located here: https://github.com/aws-solutions-library-samples/guidance-for-real-time-text-search-using-amazon-opensearch-service. 
+
 # Text Analysis with Amazon OpenSearch Service and Amazon Comprehend
 The package contains the CloudFormation template and implementation source code for AWS solution - text analysis with Amazon OpenSearch Service and Amazon Comprehend
 
